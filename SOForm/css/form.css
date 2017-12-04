@@ -1,0 +1,22 @@
+header .navbar .navbar-default{
+	background-color: #6495ED;
+}
+
+#logo{
+	height: 100%;
+}
+
+body{
+	background-color: #DCDCDC;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 10px;
+	background-color: #5F9EA0;
+}
+
+footer p{
+	text-align: center;
+	color:white;
+}
